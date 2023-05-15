@@ -64,9 +64,6 @@ input {
     color: white;
 }
 
-input:active {
-    border: 1px solid gold;
-}
 
 label {
     color: white;
