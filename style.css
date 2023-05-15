@@ -64,8 +64,12 @@ input {
     color: white;
 }
 
+input:hover {
+background-color: #686868;
+}
 
-label {
+
+label { 
     color: white;
     font-weight: medium;
 }
