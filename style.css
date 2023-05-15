@@ -48,6 +48,8 @@ body {
 
 .ContainerFormFilho {
     display: flex;
+    height: 153px;
+    width: 235px;
     flex-direction: column;
     gap: 10px;
 }
@@ -62,7 +64,7 @@ input {
     color: white;
 }
 
-input:hover {
+input:active {
     border: 1px solid gold;
 }
 
